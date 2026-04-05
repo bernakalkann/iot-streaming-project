@@ -50,5 +50,3 @@ Projeyi kendi bilgisayarınızda test etmek için 3 ayrı terminal ekranına iht
    npm install
    npm run dev
    ```
-
-> *Not: Proje içerisindeki `rapor.md` dosyasına bakarak hangi adımda hangi teknolojinin eklendiğini tarihçesiyle inceleyebilirsiniz.*

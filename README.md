@@ -8,6 +8,9 @@ Proje kapsamında, dış ortamdan veya IoT cihazlardan gelen anlık verilerin (s
 
 Yönergede belirtilen **"(Sizin gerçek ortam bulma olasılığınız olmayabilir simule edeceksiniz)"** iznine istinaden, kredi kartı gerektiren premium AWS (Kinesis, DynamoDB) hesap limitlerine takılmamak adına bulut mimarisi Node.js modülleri aracılığıyla (Event-Driven) aynı mantıkla çalışacak şekilde simüle edilmiştir.
 
+## Proje Ekran Görüntüsü
+![Gerçek Zamanlı Dashboard](./screenshot.png)
+
 ## Kullanılan Teknolojiler
 
 - **Backend:** Node.js, Express.js
